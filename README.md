@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sirlkris/intro-iot-systems/master) 
 
-https://nbviewer.jupyter.org/github/sirlkris/intro-iot-systems-1/tree/master/
+https://nbviewer.jupyter.org/github/sirlkris/intro-iot-systems/tree/master/
 
 ## Course content:
 
