@@ -1,6 +1,8 @@
 # [Introduction to IoT-based Systems](https://fitech.io/en/studies/introduction-to-iot-based-systems/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedrohjn/intro-iot-systems/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sirlkris/intro-iot-systems-1/master) 
+
+https://nbviewer.jupyter.org/github/sirlkris/intro-iot-systems-1/tree/master/
 
 ## Course content:
 
